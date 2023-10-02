@@ -1,0 +1,34 @@
+{
+    "list": {
+        "person": [
+            {
+                "id": "0325",
+                "name": "Mariam",
+                "city": "London",
+                "address": "Meaner str, 24",
+                "contact": "tel 020-5563-0033, mar@gmail.com"
+            },
+            {
+                "id": "0326",
+                "name": "Helgy",
+                "city": "Reykjavik",
+                "address": "Gardabar srt, 888. ap. 574",
+                "contact": "+345 6576 1088 email: thing567@ghjt.is skype: garr_darra"
+            },
+            {
+                "id": "0327",
+                "name": "Agneshka",
+                "city": "Warsaw",
+                "address": "ul. Św. Gertrudy, 34.",
+                "contact": "+047 6757 55 564 email: biala@mail.com skype: wysoka_woda"
+            },
+            {
+                "id": "0328",
+                "name": "Weniamin",
+                "city": "Stockholm",
+                "address": "Bromma srt, 861",
+                "contact": "+46 5774 8767 email: candy@jiar.com skype : hall_wendsky"
+            }
+        ]
+    }
+}
