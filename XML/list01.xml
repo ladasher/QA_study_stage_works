@@ -1,0 +1,30 @@
+<list>
+    <person>
+       <id>0325</id> 
+       <name>Mariam</name>
+       <city>London</city>
+       <address>Meaner str, 24</address>
+       <contact>tel 020-5563-0033, mar@gmail.com</contact>
+    </person>
+    <person>
+        <id>0326</id> 
+        <name>Helgy</name>
+        <city>Reykjavik</city>
+        <address>Gardabar srt, 888. ap. 574</address>
+        <contact>+345 6576 1088 email: thing567@ghjt.is skype: garr_darra</contact>
+     </person>
+     <person>
+        <id>0327</id> 
+        <name>Agneshka</name>
+        <city>Warsaw</city>
+        <address>ul. Św. Gertrudy, 34.</address>
+        <contact>+047 6757 55 564 email: biala@mail.com skype: wysoka_woda</contact>
+     </person>
+     <person>
+        <id>0328</id> 
+        <name>Weniamin</name>
+        <city>Stockholm</city>
+        <address>Bromma srt, 861</address>
+        <contact>+46 5774 8767 email: candy@jiar.com skype : hall_wendsky</contact>
+     </person>
+</list>
